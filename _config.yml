@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
-title                    : "Your English Name"
+site_theme               : "research state"
+title                    : "Xinjie Zhang"
 title_separator          : "-"
-name                     : &name "Your English Name"
+name                     : &name "Xinjie zhagn"
 description              : &description "Personal academic website of Your English Name"
 url                      : "https://jsslp.github.io"
 baseurl                  : ""
@@ -20,7 +20,7 @@ repository               : "jsslp/jsslp.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your English Name"
+  name             : "xinjie zhang"
   pronouns         :
   bio              : "Undergraduate student in Communication Engineering, focusing on optical communications, adaptive optics, and millimeter-wave radar sensing."
   location         : "Shanghai, China"
